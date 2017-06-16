@@ -14,7 +14,7 @@
    viewBox="0 0 315.12269 179.88477"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="greenchile - w-outline.svg"
    inkscape:export-filename="/home/warthog9/eagle/ABQ Surface Mount Soldering Kit - Chile/greenchile - w-outline.png"
    inkscape:export-xdpi="400"
@@ -26,18 +26,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="190.72521"
-     inkscape:cy="132.4726"
+     inkscape:zoom="4"
+     inkscape:cx="449.31621"
+     inkscape:cy="135.84432"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4808"
      showgrid="false"
      units="in"
      showguides="false"
-     inkscape:window-width="1874"
-     inkscape:window-height="1006"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="2048"
+     inkscape:window-height="1089"
+     inkscape:window-x="-8"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,5 +96,11 @@
        inkscape:original="M 190.11328 -32.320312 C 164.14482 -32.368623 115.87711 10.762453 84.320312 28.15625 C 68.716765 36.75679 53.272353 59.509868 38.421875 59.611328 C 23.571397 59.712938 10.220659 24.350513 3.8808594 42.033203 C -1.9133021 58.194033 16.920365 90.715008 40.316406 106.79297 C 63.712447 122.87087 83.564518 137.74892 146.30469 97.541016 C 174.93865 79.190566 208.78595 142.87828 220.11914 88.289062 C 222.3069 77.75117 221.07599 69.627927 218.61914 61.701172 C 218.70424 60.982767 218.77012 60.275723 218.80078 59.597656 C 219.08515 53.307926 216.30469 38.212891 216.30469 38.212891 C 216.30469 38.212891 226.95172 48.809164 234.13477 43.396484 C 241.31783 37.983814 249.55166 15.472471 250.89258 1.2753906 C 252.2335 -12.921679 245.54492 -31.773438 245.54492 -31.773438 L 237.69922 -24.646484 C 237.69922 -24.646484 242.47964 -11.071156 241.62109 -1.3164062 C 240.76253 8.4383537 236.02252 23.263362 230.56836 27.195312 C 225.11419 31.127254 217.7415 26.050461 214.87891 21.363281 C 212.01632 16.676101 214.17446 13.470831 212.74023 9.0507812 C 212.43276 8.1032041 211.92504 6.951569 211.34961 5.75 C 212.0845 -0.75724704 211.17138 -9.1029859 204.97852 -22.724609 C 201.90292 -29.489594 196.73269 -32.308 190.11328 -32.320312 z "
        inkscape:radius="2.4796333"
        sodipodi:type="inkscape:offset" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.16645098px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 412.91199,943.21552 c 6.08308,-1.75547 12.27643,-0.98518 18.85071,1.04187 8.6354,2.66257 17.51926,7.6003 26.01563,11.45142 8.49636,3.85112 16.95158,6.90252 24.87122,4.18946 7.91961,-2.71307 13.4966,-10.7686 17.0819,-26.25001 2.75344,-11.88944 1.2395,-21.35885 -1.75598,-30.23071 0.0781,-0.65703 0.15547,-1.31695 0.18859,-1.97388 0.20097,-3.9845 -0.61334,-9.8599 -1.43737,-14.96704"
+       id="path4815-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccc" />
   </g>
 </svg>
