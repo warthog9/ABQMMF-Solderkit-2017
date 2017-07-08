@@ -25306,7 +25306,7 @@
 goes here</text>
 <text x="64.4525" y="31.75" size="1.016" layer="21" font="vector" rot="R270">Green LED</text>
 <text x="22.86" y="16.8275" size="1.016" layer="21" font="vector" rot="R150">Red LED</text>
-<text x="32.8295" y="1.143" size="0.6096" layer="22" font="vector" rot="MR0">Remember to put
+<text x="45.466" y="7.4295" size="0.8128" layer="22" font="vector" rot="MR90">Remember to put
 some solder on the
 square pad above</text>
 <text x="26.3525" y="28.6385" size="0.6096" layer="22" font="vector" rot="MR150">Designed by John 'Warthog9' Hawley
