@@ -25309,12 +25309,13 @@ goes here</text>
 <text x="45.466" y="7.4295" size="0.8128" layer="22" font="vector" rot="MR90">Remember to put
 some solder on the
 square pad above</text>
-<text x="26.3525" y="28.6385" size="0.6096" layer="22" font="vector" rot="MR150">Designed by John 'Warthog9' Hawley
+<text x="24.850553125" y="30.22406875" size="0.762" layer="22" font="vector" rot="MR160">Designed by John 'Warthog9' Hawley
 For the ABQ MMF
 Artwork consulted on by Dr. Terri Oda
 Licensed CC-BY-SA 4.0 2017
 http://github.com/warthog9/ABQMMF-Solderkit-2017</text>
-<text x="57.15" y="36.83" size="0.8128" layer="26" font="vector" rot="MR270">[ Magnet holder goes here ]</text>
+<text x="57.15" y="36.83" size="0.8128" layer="22" font="vector" rot="MR270">[ Magnet holder goes here ]</text>
+<text x="26.035" y="22.9235" size="1.016" layer="22" font="vector" rot="MR0">CR2032</text>
 </plain>
 <libraries>
 <library name="adafruit">
