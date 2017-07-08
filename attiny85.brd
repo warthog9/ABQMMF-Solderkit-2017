@@ -27306,10 +27306,21 @@ design rules under a new name.</description>
 </signal>
 <signal name="NTOUCH">
 <polygon width="0.1524" layer="16">
-<vertex x="54.737" y="41.2115"/>
-<vertex x="72.39" y="41.2115"/>
-<vertex x="72.39" y="38.608"/>
-<vertex x="54.737" y="38.608"/>
+<vertex x="55.245" y="40.5765"/>
+<vertex x="60.96" y="40.894"/>
+<vertex x="66.421" y="40.7035"/>
+<vertex x="70.1675" y="40.4495"/>
+<vertex x="70.993" y="40.3225"/>
+<vertex x="72.136" y="40.1955"/>
+<vertex x="72.263" y="38.989"/>
+<vertex x="70.2945" y="39.243"/>
+<vertex x="67.437" y="39.6875"/>
+<vertex x="64.1985" y="40.005"/>
+<vertex x="61.595" y="40.132"/>
+<vertex x="58.42" y="40.005"/>
+<vertex x="55.9435" y="39.6875"/>
+<vertex x="55.3085" y="39.6875"/>
+<vertex x="55.0545" y="39.878"/>
 </polygon>
 </signal>
 </signals>
